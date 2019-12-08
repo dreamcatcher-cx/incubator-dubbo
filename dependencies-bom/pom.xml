@@ -104,7 +104,7 @@
         <slf4j_version>1.7.25</slf4j_version>
         <jcl_version>1.2</jcl_version>
         <log4j_version>1.2.16</log4j_version>
-        <logback_version>1.2.2</logback_version>
+        <logback_version>1.2.1</logback_version>
         <commons_lang3_version>3.4</commons_lang3_version>
         <embedded_redis_version>0.6</embedded_redis_version>
     </properties>
